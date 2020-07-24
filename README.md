@@ -18,4 +18,4 @@ POST http://localhost:****/api/estate-adverts
 http://localhost:****
 
 ### Infos #
-> Dépalcer le fichier dataset_annonces.csv dans le rep data
+> Dépalcer le fichier dataset_annonces.csv dans le rep data avant de lancer le script migrate_database
